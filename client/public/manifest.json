@@ -1,0 +1,25 @@
+{
+  "short_name": "DevFps Expense",
+  "name": "DevFps Expense",
+  "icons": [
+    {
+      "src": "/app-icons/favicon.ico",
+      "sizes": "16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/app-icons/favicon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/app-icons/favicon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#302D43",
+  "background_color": "#302D43"
+}

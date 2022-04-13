@@ -1,0 +1,19 @@
+@import url("fonts.css");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .tansactions-tab {
+    padding: 20px 10px !important;
+  }
+  .select-icon svg {
+    color: white;
+  }
+  .no-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scroll {
+    scrollbar-width: none;
+  }
+}

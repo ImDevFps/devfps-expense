@@ -1,0 +1,4 @@
+export const transactionsActionTypes = {
+  ADD_TRANSACTIONS: "ADD_TRANSACTIONS",
+  DELETE_TRANSACTION: "DELETE_TRANSACTION",
+};
